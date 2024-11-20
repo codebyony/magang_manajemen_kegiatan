@@ -6,4 +6,10 @@ Laravel, blade, MySQL
 
 ## Screenshot
 > Data Kegiatan
-<img src="">
+<img src="https://github.com/codebyony/magang_manajemen_kegiatan/blob/7e6c79fe2a3dd79e4115532eae58ada557ac22ec/public/assets/images/Screenshot/Kegiatan1.png">
+
+> Tambah Kegiatan
+<img src="https://github.com/codebyony/magang_manajemen_kegiatan/blob/7e6c79fe2a3dd79e4115532eae58ada557ac22ec/public/assets/images/Screenshot/Kegiatan2.png">
+
+> Edit Kegiatan
+<img src="https://github.com/codebyony/magang_manajemen_kegiatan/blob/7e6c79fe2a3dd79e4115532eae58ada557ac22ec/public/assets/images/Screenshot/Kegiatan3.png">
